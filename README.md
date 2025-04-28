@@ -1,2 +1,5 @@
-# ocsef-hacks-2025
-Team Goofy Goobers's project for the OCSEF Hackathon. A safety device for bikers that acts as a smart rearview camera. Using an LED, if a car or any object gets too close to you, it will light up indicating that you should move. This adds and extra layer of protection that allows a peace of mind while biking.
+# OCSEF Hacks 2025
+Team Goofy Goobers developed a project called BykeSyte at the OCSEF Hackathon — a safety device for bikers that works as a smart rearview camera. Using an LED alert system, it lights up when a car or object gets too close, signaling the rider to move. BykeSyte adds an extra layer of protection, offering bikers greater peace of mind on the road.
+
+### [Product Website Repo](https://github.com/shreyasrawat/BykeSyte)
+### [Product Website](https://shreyasrawat.github.io/BykeSyte/index.html)
